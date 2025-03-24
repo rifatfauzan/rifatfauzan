@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=48&pause=1000&color=F78D53&center=true&vCenter=true&width=435&lines=Hi%2C+there!;I'm+Rifat!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=50&pause=1000&color=F78D53&center=true&vCenter=true&width=846&height=55&lines=Hi%2C+there!;I'm+Rifat!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
 I'm an Information Systems undergraduate with a strong passion for software engineering and data science! Currently honing my skills in full-stack development, database management, and machine learning algorithms. I enjoy solving complex problems through clean, efficient code and transforming data into actionable insights. Always eager to collaborate on innovative projects and continuously expand my technical expertise.
