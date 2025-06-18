@@ -30,9 +30,7 @@ I'm an Information Systems undergraduate with a strong passion for software engi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifatfauzan&show_icons=true&theme=dracula" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatfauzan&theme=dark" alt="GitHub Streak"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatfauzan&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatfauzan&theme=dracula" alt="GitHub Streak"/>
 </div>
 
 ## 🌐 Social Media
@@ -46,6 +44,5 @@ I'm an Information Systems undergraduate with a strong passion for software engi
 ## 📱 Contact
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   <p>Feel free to contact me through my email at <code>rifat.fauzan8@gmail.com</code> or through the social media I have linked above!</p>
 </div>
