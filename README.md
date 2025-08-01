@@ -33,13 +33,6 @@ I'm an Information Systems undergraduate with a strong passion for software engi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatfauzan&theme=dracula" alt="GitHub Streak"/>
 </div>
 
-## 🌐 Social Media
-
-<div align="center">
-  <a href="https://instagram.com/rifatfauzannn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
 
 ## 📱 Contact
 
